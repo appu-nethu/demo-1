@@ -1,1 +1,2 @@
 this file created from repo
+we can inherited from github branch
