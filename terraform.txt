@@ -1,0 +1,3 @@
+This is terraform file
+its an iac
+we can manage the infrastructure by coding instead of manual creation
