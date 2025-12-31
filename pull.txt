@@ -1,4 +1,5 @@
 this is to show the pull command usage.
 this is second message.
 before commit
-
+I dont want to uploadd this changes into repo
+but i want to keep it in local
